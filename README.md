@@ -32,6 +32,6 @@ TempCNN   0.6624  0.8838    0.8830
 @article{costa2024flood,
   title={Comparing ConvLSTM and TempCNN for Flood Classification},
   author={Costa, Cesar A. M. et al.},
-  journal={INPE Technical Report},
+  journal={INPE},
   year={2024}
 }
