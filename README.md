@@ -25,9 +25,10 @@ cd ConvLSTMvsTempCNN
  - notebooks - Visualization notebooks
 
 ## Results
-Model     mIoU    F1-score  Accuracy
-ConvLSTM  0.7085  0.9027    0.9022
-TempCNN   0.6624  0.8838    0.8830
+| Model    | mIoU   | F1-score | Accuracy |
+|----------|--------|----------|----------|
+| ConvLSTM | 0.7085 | 0.9027   | 0.9022   |
+| TempCNN  | 0.6624 | 0.8838   | 0.8830   |
 
 @article{costa2024flood,
   title={Comparing ConvLSTM and TempCNN for Flood Classification},
