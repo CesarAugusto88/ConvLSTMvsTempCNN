@@ -19,12 +19,10 @@ cd ConvLSTMvsTempCNN
 ```
 
 ## Repository Structure
-data - Training/test datasets
-models - Pretrained models
-notebooks - Visualization notebooks
-scripts - Main Python scripts
-results - Output figures/metrics
-
+ - scripts - Python 
+ - data - Training/test datasets in notebook
+ - models - Training and test the models
+ - notebooks - Visualization notebooks
 
 ## Results
 Model     mIoU    F1-score  Accuracy
