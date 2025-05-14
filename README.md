@@ -12,7 +12,7 @@ This repository contains the code and datasets for the paper **"Comparing ConvLS
   - **TempCNN**: Uses 3D convolutions for time-series processing
 - **resolution data**: Sentinel-2 imagery (10m resolution)
 
-## Clone repositore
+## Repositore clone
 ```bash
 git clone https://github.com/CesarAugusto88/ConvLSTMvsTempCNN.git
 cd ConvLSTMvsTempCNN
