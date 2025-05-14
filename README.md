@@ -1,6 +1,6 @@
 # Flood Classification using ConvLSTM and TempCNN
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: CC0 1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/downloads/)
 [![Framework: Keras](https://img.shields.io/badge/Framework-Keras-red)](https://keras.io)
 
